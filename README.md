@@ -4,9 +4,9 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Array
-	* Object
-	* Method
+	* Array - Way of storing a list of values without needing to create separate variables.
+	* Object - Type of variable (container) in which you can store multiple pieces of information to be recalled later. Example would be saying a tennis raqcuet is the object, and the information contain are things such as brand, weight, and string tension.
+	* Method - located within an object, and used to output the values of the object in a desired way.
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
